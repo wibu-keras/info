@@ -15,7 +15,7 @@ const LINKS = [
   },
   {
     title: "Info Premium",
-    desc: "Paket premium clan, benefit eksklusif & akses khusus.",
+    desc: "Group khusus bagikan info premium.",
     url: "https://chat.whatsapp.com/HyeFJcxGc8I61KJ3xKVDJs",
     icon: "👑",
     color: "#ffd700",
@@ -23,7 +23,7 @@ const LINKS = [
   },
   {
     title: "BT Like & Prem",
-    desc: "BT like & transaksi premium. Cepat, aman, terpercaya.",
+    desc: "BT like dan premium khusus buat member",
     url: "https://chat.whatsapp.com/BP5Gybzd3EU8UGa1YFExii",
     icon: "⚡",
     color: "#ff2d95",
@@ -58,7 +58,7 @@ const BADGE_LABEL = {
   premium: "PREMIUM",
   bt:      "BT LIKE",
   bukti:   "BUKTI",
-  vip:     "VIP ONLY",
+  vip:     "PRIVATE",
 };
 
 LINKS.forEach((link, i) => {
